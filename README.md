@@ -1,4 +1,4 @@
-Hi 👋 My name is Kushagra Gangwar
+Kushagra Gangwar
 =================================
 
 Software Developer
